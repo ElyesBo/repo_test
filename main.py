@@ -1,7 +1,4 @@
 
-from tkinter import N
-
-
 n = 11
 
 def afficher_ligne(numero):
